@@ -2,3 +2,5 @@ node_modules/**
 content/apps/** 
 content/data/** 
 content/images/**
+hooks/**
+npm-debug.log
