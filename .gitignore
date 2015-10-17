@@ -4,3 +4,5 @@ content/data/**
 content/images/**
 hooks/**
 npm-debug.log
+.DS_Store
+content/data/ghost-dev.db
