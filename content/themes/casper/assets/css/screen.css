@@ -1343,7 +1343,7 @@ body:not(.post-template) .post-title {
     -webkit-align-items: stretch;no
     -ms-flex-align: stretch;
     align-items: stretch;
-    margin-top: 10rem;
+    margin-top: 1rem;
 }
 
 .read-next-story {
